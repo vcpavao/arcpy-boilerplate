@@ -2,7 +2,7 @@
 
 This repository stores some of my GIS scripts and project samples.
 
-**Contents: **
+**Contents:**
 
 map-examples - folder containing maps I have created in ArcGIS Pro
 
